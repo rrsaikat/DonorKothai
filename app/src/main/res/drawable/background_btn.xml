@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/md_red_700" android:state_enabled="false" android:state_focused="true"/>
+    <item android:drawable="@color/md_blue_grey_200" android:state_enabled="false"/>
+    <item android:drawable="@color/md_red_700" android:state_focused="true" android:state_pressed="true"/>
+    <item android:drawable="@color/md_red_700" android:state_focused="false" android:state_pressed="true"/>
+    <item android:drawable="@color/md_red_500"/>
+</selector>
+
+
+

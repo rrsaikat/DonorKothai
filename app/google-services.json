@@ -1,0 +1,66 @@
+{
+  "project_info": {
+    "project_number": "200222653371",
+    "firebase_url": "https://blooddonor-93eca.firebaseio.com",
+    "project_id": "blooddonor-93eca",
+    "storage_bucket": "blooddonor-93eca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200222653371:android:39b995ab60d08d1a",
+        "android_client_info": {
+          "package_name": "com.rrsaikat.donorkothai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200222653371-cjum1j2uq7eoi2683d9na16tidtteobm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rrsaikat.donorkothai",
+            "certificate_hash": "103548c75b1f6a4da9a8448a212bb97aa406edb7"
+          }
+        },
+        {
+          "client_id": "200222653371-7r4cdmvt3eolvrihvhevasf0arurhb6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rrsaikat.donorkothai",
+            "certificate_hash": "9a0cf2688dca129a7c3e302a66f4255e7c3766c7"
+          }
+        },
+        {
+          "client_id": "200222653371-2s0qlkdq175qphi1mau1tb33n9emssdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnhiVESvmMPvEfmOXxEmQy37n2tpIKz20"
+        },
+        {
+          "current_key": "AIzaSyDk-ZUVwVNbjINdfvAPkgUbnKnhbxX_yYw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200222653371-2s0qlkdq175qphi1mau1tb33n9emssdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
