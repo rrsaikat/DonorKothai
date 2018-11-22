@@ -8,8 +8,10 @@ A blood donating app with firebase real time database.
 </p>
 
 
-Download the apps from :
-![https://files.fm](https://github.com/rrsaikat/DonorKothai/blob/master/filesFM.png)
+### Download the app from :
+<p align="start">
+  <img src="https://github.com/rrsaikat/DonorKothai/blob/master/filesFM.png" height="50" width="100"/>
+</p>
 
 
 ## Working Procedure
