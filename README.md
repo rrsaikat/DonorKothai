@@ -4,7 +4,7 @@
 A blood donating app with firebase real time database.
 
 <p align="start">
-  <img src="https://github.com/rrsaikat/DonorKothai/blob/master/searchDonor.gif" height="400" width="280"/>
+  <img src="https://github.com/rrsaikat/DonorKothai/blob/master/searchDonor.gif" height="400" width="200"/>
 </p>
 
 
