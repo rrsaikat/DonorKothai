@@ -7,13 +7,6 @@ A blood donating app with firebase real time database.
   <img src="https://github.com/rrsaikat/DonorKothai/blob/master/searchDonor.gif" height="400" width="220"/>
 </p>
 
-
-### Download the app from :
-<p align="start">
-  <img src="https://github.com/rrsaikat/DonorKothai/blob/master/filesFM.png" height="20" width="100"/>
-</p>
-
-
 ## Working Procedure
 This app keeps a list of voluntary donors.
 
