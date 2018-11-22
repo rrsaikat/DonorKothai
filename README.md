@@ -1,11 +1,11 @@
-# DonorKothai
 ![https://github.com/rrsaikat/CircularMorphProgressBar](https://img.shields.io/badge/platform-Android-green.svg?style=flat-square)
 ![https://github.com/rrsaikat/CircularMorphProgressBar](https://img.shields.io/badge/API-16+-orange.svg?style=flat-square)
 ![https://www.apache.org/licenses/LICENSE-2.0](https://img.shields.io/badge/licence-Apache%20v2.0-blue.svg?style=flat-square)
+# DonorKothai
 A blood donating app with firebase real time database.
 
 <p align="center">
-  <img src="https://github.com/rrsaikat/DonorKothai/blob/master/Main.png" height="450" width="280"/>
+  <img src="https://github.com/rrsaikat/DonorKothai/blob/master/Main.png" height="500" width="280"/>
 </p>
 
 
