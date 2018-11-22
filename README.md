@@ -16,12 +16,17 @@ This app keeps a list of voluntary donors.
 
 A Voluntary Donor has to make an account on our app with some general information like:
 
-Name
-Age
-Blood Group
-Current Location [Can also provide access to his live location].
+    Name
+    Age
+    Blood Group
+    Birth Date
+    Purpose of Blood Request
+    Current Location [Can also provide access to his live location].
 On the other side, the one who needs blood, will create a request for blood unit with his blood group and location.
 
+    Red pins ----> Donors
+    Green pins --> Recievers
+                    
 On Creating a Blood Request
 All persons near him i.e. our voluntary donors will receive notification for such request. (e.g. Person A needs blood at XYZ hospital or 123.456.789 location)
 
