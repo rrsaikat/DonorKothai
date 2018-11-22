@@ -35,6 +35,17 @@ Sometimes people don't find blood at the correct time. This app can help there b
 Reduce the wastage of blood.
 Usually Blood banks store more blood so that they fulfil every requirement because the demand for blood is undefined.
 
+## Features
+   1. Secured authentication by phone
+   2. One tap calling
+   3. Give direction to the targeted user
+   4. Can make request for blood along with donors
+
+## Upcoming Features
+   1. Cancel option for blood request
+   2. Show person's image into the marker
+   3. User ratings option
+   
 ## User Manual
 Use the project with your own Firebase instance and Google Maps API key
 
