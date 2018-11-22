@@ -10,7 +10,7 @@ A blood donating app with firebase real time database.
 
 ### Download the app from :
 <p align="start">
-  <img src="https://github.com/rrsaikat/DonorKothai/blob/master/filesFM.png" height="50" width="100"/>
+  <img src="https://github.com/rrsaikat/DonorKothai/blob/master/filesFM.png" height="20" width="100"/>
 </p>
 
 
