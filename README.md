@@ -7,6 +7,13 @@ A blood donating app with firebase real time database.
   <img src="https://github.com/rrsaikat/DonorKothai/blob/master/searchDonor.gif" height="400" width="220"/>
 </p>
 
+## Debugging Testing
+Tested id api 21, 26, 27 & 28
+For better experience recommends to install this app into nougat or orio version.
+      
+### Download the app from :
+![https://files.fm/f/7fbdtqbt](https://github.com/rrsaikat/DonorKothai/blob/master/fm.PNG)
+
 ## Working Procedure
 This app keeps a list of voluntary donors.
 
