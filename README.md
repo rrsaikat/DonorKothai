@@ -8,7 +8,7 @@ A blood donating app with firebase real time database.
 </p>
 
 ## Debugging Testing
-    Tested id api 21, 26, 27 & 28
+    Tested in api 21, 26, 27 & 28
     For better experience recommends to install this app into nougat or orio version.
       
 #### Download the app from :
