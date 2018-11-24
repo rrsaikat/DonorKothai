@@ -58,4 +58,10 @@ The requester is shown a map of all the blood donors with the requested blood gr
 ## User Manual
 Use the project with your own Firebase instance and Google Maps API key
 
+## LETTER OF APPROVAL
+Certified that the work contained in the project entitled “DonorKothai”, by Md. Rezwan Rabbi have been carried out under my supervision and that this work has not been submitted elsewhere for a degree.
 
+    Moinul Islam Sayed 
+    Lecturer, Dept. of CIT        
+    Patuakhali Science and Technology University                        		
+    Email: smoinul94@pstu.ac.bd
