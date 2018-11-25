@@ -66,6 +66,6 @@ Certified that the work contained in the project entitled “DonorKothai”, by 
     Patuakhali Science and Technology University                        		
     Email: smoinul94@pstu.ac.bd
 
-## Follow me at:
+## Follow me:
 [![](http://2.bp.blogspot.com/-VKiajIE8QrQ/UhtxLts5USI/AAAAAAAAAPQ/3Xvn0e50PE0/s1600/facebook.png)](https://www.facebook.com/rrsaikat)
 
