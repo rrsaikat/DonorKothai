@@ -66,8 +66,6 @@ Certified that the work contained in the project entitled “DonorKothai”, by 
     Patuakhali Science and Technology University                        		
     Email: smoinul94@pstu.ac.bd
 
-## Follow me 
-[LinkedIn](http://www.survivingwithandroid.com)
-
-[![](http://4.bp.blogspot.com/-rv-qkRRWuEs/UbhpKi2IBrI/AAAAAAAAANI/HZPsxPQ2amk/s1600/google_plus.png)](http://www.google.com/+Rezwan Rehman) [![](http://3.bp.blogspot.com/-uoKWkNQ6yFk/Ubhp7EoxhMI/AAAAAAAAANY/7jeuD2uOKV8/s1600/twitter.png)](https://twitter.com/rrsaikat) [![](http://2.bp.blogspot.com/-VKiajIE8QrQ/UhtxLts5USI/AAAAAAAAAPQ/3Xvn0e50PE0/s1600/facebook.png)](https://www.facebook.com/rrsaikat)
+## Follow me at:
+[![](http://2.bp.blogspot.com/-VKiajIE8QrQ/UhtxLts5USI/AAAAAAAAAPQ/3Xvn0e50PE0/s1600/facebook.png)](https://www.facebook.com/rrsaikat)
 
