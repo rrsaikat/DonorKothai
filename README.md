@@ -12,7 +12,8 @@ A blood donating app with firebase real time database.
     For better experience recommends to install this app into nougat or orio version.
       
 #### Download the app from :
-![https://failiem.lv/down.php?i=7fbdtqbt](https://github.com/rrsaikat/DonorKothai/blob/master/fm.PNG)
+
+[![](https://github.com/rrsaikat/DonorKothai/blob/master/fm.PNG)](https://failiem.lv/down.php?i=7fbdtqbt)
 
 ## Working Procedure
 This app keeps a list of voluntary donors.
