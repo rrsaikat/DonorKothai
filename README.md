@@ -69,8 +69,8 @@ Certified that the work contained in the project entitled “DonorKothai”, by 
     Email: smoinul94@pstu.ac.bd
 
 ## Follow me:
-<a href="https://www.facebook.com/rrsaikat/"><img src="http://2.bp.blogspot.com/-VKiajIE8QrQ/UhtxLts5USI/AAAAAAAAAPQ/3Xvn0e50PE0/s1600/facebook.png?raw=true" height= "60" width="60"></a>
-<a href="www.linkedin.com/in/rezwan-rehman-969232173/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" height = "60" width="60"></a>
+<a href="https://www.facebook.com/rrsaikat/"><img src="http://2.bp.blogspot.com/-VKiajIE8QrQ/UhtxLts5USI/AAAAAAAAAPQ/3Xvn0e50PE0/s1600/facebook.png?" height= "60" width="60"></a>
+<a href="www.linkedin.com/in/rezwan-rehman-969232173/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?" height = "60" width="60"></a>
 
 ## LICENSE
   Copyright 2018 Md. rezwan rabbi
