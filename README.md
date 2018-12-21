@@ -70,6 +70,7 @@ Certified that the work contained in the project entitled “DonorKothai”, by 
 
 ## Follow me:
 [![](http://2.bp.blogspot.com/-VKiajIE8QrQ/UhtxLts5USI/AAAAAAAAAPQ/3Xvn0e50PE0/s1600/facebook.png)](https://www.facebook.com/rrsaikat)
+<a href="www.linkedin.com/in/rezwan-rehman-969232173/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 
 ## LICENSE
   Copyright 2018 Md. rezwan rabbi
