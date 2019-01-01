@@ -19,7 +19,7 @@ A blood donating app with firebase real time database.
 ## Working Procedure
 This app keeps a list of voluntary donors.
 
-A Voluntary Donor has to make an account on our app with some general information like:
+A Voluntary (Donor) has to make an account in this app with some general information like:
 
     Name
     Age
@@ -32,8 +32,7 @@ On the other side, the one who needs blood, will create a request for blood unit
     Red pins ----> Donors
     Green pins --> Recievers
                     
-On Creating a Blood Request
-All persons near him i.e. our voluntary donors will receive notification for such request. (e.g. Person A needs blood at XYZ hospital or 123.456.789 location)
+After Creating a Blood request, all persons near him i.e. our voluntaries (donors) will receive notification for such request. (e.g. Person A needs blood at XYZ hospital or 123.456.789 location)
 
 OR
 
@@ -61,7 +60,7 @@ The requester is shown a map of all the blood donors with the requested blood gr
 Use the project with your own Firebase instance and Google Maps API key.
 
 ## LETTER OF APPROVAL
-Certified that the work contained in the project entitled “DonorKothai”, by Md. Rezwan Rabbi have been carried out under my supervision and that this work has not been submitted elsewhere for a degree.
+Certified that the work contained in the project entitled “DonorKothai”, by Md. Rezwan Rabbi have been carried out under my supervision and that this work has not been submitted else where for a degree.
 
     Moinul Islam Sayed 
     Lecturer, Dept. of CIT        
@@ -70,7 +69,7 @@ Certified that the work contained in the project entitled “DonorKothai”, by 
 
 ## Follow me:
 <a href="https://www.facebook.com/rrsaikat/"><img src="http://2.bp.blogspot.com/-VKiajIE8QrQ/UhtxLts5USI/AAAAAAAAAPQ/3Xvn0e50PE0/s1600/facebook.png?" height= "60" width="60"></a>
-<a href="www.linkedin.com/in/rezwan-rehman-969232173/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?" height = "60" width="60"></a>
+<a href="www.linkedin.com/in/rrsaikat/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?" height = "60" width="60"></a>
 
 ## LICENSE
   Copyright 2018 Md. rezwan rabbi
